@@ -1,6 +1,6 @@
 # valine
-valine_app_id: "tdOzP65tbrubVP7AjudijgBF-gzGzoHsz"
-valine_app_key: "tCMw7VUTpqIhpILQFqQH1z2d"
+valine_app_id: "将这个字符串替换为你的valine用AppID"
+valine_app_key: "替换为Valine用AppKey"
 valine_common_place_holder: "输入你想说的内容吧~"
 valine_micro_place_holder: "输入你想说的内容吧~"
 
