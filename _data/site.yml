@@ -1,10 +1,10 @@
 # valine
-valine_app_id: "tdOzP65tbrubVP7AjudijgBF-gzGzoHsz"
-valine_app_key: "tCMw7VUTpqIhpILQFqQH1z2d"
-valine_common_place_holder: "输入你想说的内容吧~"
-valine_micro_place_holder: "输入你想说的内容吧~"
+valine_app_id: "将这个字符串替换为你的valine用AppID"
+valine_app_key: "替换为Valine用AppKey"
+valine_common_place_holder: "替换为一般占位符"
+valine_micro_place_holder: "替换为微博客用占位符"
 
 # footer, html code
 footer: 
   - '<a href="{{ site.baseurl }}/static/xml/rss.xml">RSS</a> | '
-  - '<a href="https://github.com/Zj031210?tab=repositories">kKsk's Repositories</a>'
+  - '<a href="https://github.com/moi-mo/umaize">Theme UMaize</a>'
