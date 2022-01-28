@@ -3,7 +3,7 @@ encoding: utf-8
 # SEO相关信息
 title: kKsk's Blog                               # 站的标题
 description: 1145141919810                # 站的描述
-keywords: moimo,thoughts,scripts,Python     # 站的关键词，（ASCII）逗号分隔
+keywords: kKsk,Blog,Android,ROM,GTASA,Alonzo,Max,Alonzo Max     # 站的关键词，（ASCII）逗号分隔
 author: Alonzo Max                            # 站的作者
 
 # 这些不要动
@@ -15,7 +15,7 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: 'https://rain.moimo.me'
+domainUrl: 'https://github.com/Zj031210'
 baseurl: ''
 
 # 点击页面文字冒出特效,不需要请设置为false
